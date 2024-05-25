@@ -4,7 +4,7 @@
 
 ### Resumo do Projeto:
 
-O presente projeto foi desenvolvido com o objetivo de atender aos requisitos de um processo de seleção promovido pelo Itaú Unibanco. A iniciativa visa demonstrar habilidades e competências técnicas e comportamentais necessárias para a posição em questão, destacando a capacidade de desenvolver soluções eficazes e inovadoras para os clientes do mercado financeiro.
+O presente projeto foi desenvolvido com o objetivo de atender aos requisitos de um processo de seleção promovido pelo Itaú Unibanco. A iniciativa visa demonstrar habilidades e competências técnicas e comportamentais necessárias para a posição em questão, destacando a capacidade de desenvolver soluções eficazes e inovadoras para os clientes do mercado financeiro
 
 ### Apresentação:
 
