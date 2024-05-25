@@ -4,12 +4,11 @@
 
 ### Resumo do Projeto:
 
-O presente projeto foi desenvolvido com o objetivo de atender aos requisitos de um processo de seleção promovido pelo Itaú Unibanco. A iniciativa visa demonstrar habilidades e competências técnicas e comportamentais necessárias para a posição em questão, destacando a capacidade de desenvolver soluções eficazes e inovadoras para os clientes do mercado financeiro.
+Este projeto foi desenvolvido com o objetivo de atender à premissas de um processo seletivo, promovido pelo Itaú Unibanco. O intuito é demonstrar habilidades, competências técnicas e comportamentais, que são necessárias para a posição, destacando a capacidade de desenvolver soluções eficazes e inovadoras para os clientes do Squad.
 
 ### Apresentação:
 
-Eu sou **Letícia Bernal**, estudante de Tecnologia da Informação, e para desenvolver esse projeto eu usei os computadores do laboratório de informática da Universidade Estado de São Paulo. Esta oportunidade abrirá oportunidade para que eu possa custear meus estudos e comprar um computador para me desenvolver ainda mais como desenvolvedores de software.
-
+Sou **Letícia Bernal**, estudante de Tecnologia da Informação 
 LinkedIn: https://www.linkedin.com/in/lelebernal/
 
 ### Tecnologias:
