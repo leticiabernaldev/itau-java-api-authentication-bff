@@ -4,14 +4,14 @@
 
 ### Resumo do Projeto:
 
-Este projeto foi desenvolvido com o objetivo de atender à premissas de um processo seletivo, promovido pelo Itaú Unibanco. O intuito é demonstrar habilidades, competências técnicas e comportamentais, que são necessárias para a posição, destacando a capacidade de desenvolver soluções eficazes e inovadoras para os clientes do Squad.
+Este projeto foi desenvolvido com o objetivo de atender à premissas de um processo seletivo, promovido pelo Itaú Unibanco. O intuito é demonstrar habilidades, competências técnicas e comportamentais, que são necessárias para a posição, destacando a capacidade de desenvolver soluções eficazes e inovadoras para a empresa.
 
 ### Apresentação:
 
-Sou **Letícia Bernal**, estudante de Tecnologia da Informação 
+Olá! Me chamo **Letícia Bernal**, tenho 22 anos, sou estudante de Gestão de Tecnologia da Informação na UNICID e estou no 2°semenstre.
 LinkedIn: https://www.linkedin.com/in/lelebernal/
 
-### Tecnologias:
+### Tecnologias usadas:
 
 - Java 21 -> Linguagem de programação
 - Spring boot 3.2.5 -> Framework
@@ -19,10 +19,10 @@ LinkedIn: https://www.linkedin.com/in/lelebernal/
 
 ### Etapas:
 
-- Fiz a instalação do JDK através do site: 
+- Instalação do JDK através do site: 
 https://www.oracle.com/br/java/technologies/downloads/
 
-- Configurei as variáveis de ambiente do Java (JAVA_HOME) usando como referência o vídeo:
+- Configurei as variáveis de ambiente do Java (JAVA_HOME), usando como referência o vídeo:
 https://www.youtube.com/watch?v=bUnUtt-fe3s&ab_channel=OSTechHelp
 
 - Validei a instalação, através do prompt, usando o comando:
@@ -64,7 +64,7 @@ src/
 |-- ...
 ```
 
-Por ser um projeto simples e objetivo, não se fez necessário criar a camada de infrastructure, domain e etc.
+Por ser um projeto objetivo, não se fez necessário criar a camada de infrastructure, domain e etc.
 
 - Como dependências, usei as seguintes:
 
@@ -74,7 +74,7 @@ spring-boot-starter-test <br>
 logback-classic <br>
 springdoc-openapi-starter-webmvc-ui <br>
 
-- Para buildar meu projeto usei o comando Maven:
+- Para build, comando Maven:
 
 ```
 mvn clean package
@@ -97,20 +97,21 @@ http://localhost:8080/swagger-ui/index.html
 
 ### Arquitetura AWS:
 
-Para sugerir uma arquitetura eu precisei fazer um estudo e usei vários vídeos como referência, destaco os links: <br>
+Para sugerir uma arquitetura, precisei fazer um estudo e usei vários vídeos como referência, destaco os links: <br>
 https://www.youtube.com/watch?v=C8Z8XrGTicQ&ab_channel=S3CloudHub
 
 https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/http-api-private-integration.html
 
-![Texto Alternativo](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/images/private-integration.png)
+![<img width="5184" alt="aws" src="https://github.com/leticiabernaldev/itau-java-api-authentication-bff/assets/170205092/9a90c864-fe75-440d-96e4-dc95f3b3d1e3">
+](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/images/private-integration.png)
 
-- O cliente faz uma requisição que bate em API Gateway
-- O VPC link fica responsável pela comunicação
-- O Load Balance fica responsável por selecionar qual container da api será enviado a requisição
-- E o Fargate disponibilizará a gestão dos container que a api está hospedada
+- O cliente faz uma requisição transferindo para API Gateway
+- VPC link pondera comunicação
+- Load Balance fica responsável por selecionar qual container da api será enviado a requisição
+- Fargate disponibilizará a gestão dos container que a api está hospedada
 
 ### Conclusão
-
-Agradeço imensamente a oportunidade que estou tendo de participar desse processo e estou estudando com muita dedicação para conhecer outras abordagens de hospedar a API na AWS e também para aplicar com consistências boas práticas de orientação a objeto, Cleand Code e etc no desenvolvimento dos meus projetos.
+Este template foi baseado em meus breves estudos em API, AWS, aplicação com consistências, boas práticas de orientação a objeto, Cleand Code entre outros...
+Desde já agradeço a oportunidade!
 
 <hr>
