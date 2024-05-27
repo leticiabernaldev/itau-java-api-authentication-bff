@@ -102,9 +102,7 @@ https://www.youtube.com/watch?v=C8Z8XrGTicQ&ab_channel=S3CloudHub
 
 https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/http-api-private-integration.html
 
-![<img width="5184" alt="aws" src="https://github.com/leticiabernaldev/itau-java-api-authentication-bff/assets/170205092/9a90c864-fe75-440d-96e4-dc95f3b3d1e3">
-]
-(https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/images/private-integration.png)
+<img width="5184" alt="aws" src="https://github.com/leticiabernaldev/itau-java-api-authentication-bff/assets/170205092/9a90c864-fe75-440d-96e4-dc95f3b3d1e3">
 
 - O cliente faz uma requisição transferindo para API Gateway
 - VPC link pondera comunicação
